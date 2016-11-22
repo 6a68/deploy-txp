@@ -3,8 +3,16 @@
   "version": "1.0.2",
   "description": "tool for helping deploy testpilot experiments",
   "bin": "bin/build-addon",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/deploy-txp/issues"
+  },
   "author": "meandave",
+  "homepage": "https://github.com/meandavejustice/deploy-txp#readme",
   "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meandavejustice/deploy-txp.git"
+  },
   "dependencies": {
     "jetpack-id": "1.0.0",
     "jpm": "1.2.2",
